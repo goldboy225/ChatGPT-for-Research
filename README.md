@@ -14,3 +14,12 @@ Let's see how ChatGPT can help research work!
 
 ## ChatGPT to Coding
 - [Using ChatGPT to Generate and Export Data for Analysis](https://youtu.be/kcehSSwGABE)
+
+## ChatGPT Videos
+- [5 BEST AI TOOLS to Make Your Life Easier Like ChatGPT](https://www.youtube.com/watch?v=iawOF5ZmrVc)
+- [GPT 4: The AI Revolution](https://www.youtube.com/watch?v=DnKZHShdQr0)
+- [HOW to USE CHATGPT to MAKE VIRAL YOUTUBE VIDEOS?](https://www.youtube.com/watch?v=BdzRhpQQ6y)
+
+## ChatGPT Prompts
+- [A variety of prompts that can be used with ChatGPT](https://github.com/f/awesome-chatgpt-prompts)
+- [ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
