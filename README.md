@@ -14,6 +14,7 @@ Let's see how ChatGPT can help research work!
 
 ## ChatGPT to Coding
 - [Using ChatGPT to Generate and Export Data for Analysis](https://youtu.be/kcehSSwGABE)
+- [Using ChatGPT to do data analysis](https://www.youtube.com/watch?v=Dw0irOIJYnA)
 
 ## ChatGPT Videos
 - [5 BEST AI TOOLS to Make Your Life Easier Like ChatGPT](https://www.youtube.com/watch?v=iawOF5ZmrVc)
