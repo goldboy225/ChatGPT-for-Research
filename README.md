@@ -15,11 +15,14 @@ Let's see how ChatGPT can help research work!
 ## ChatGPT to Coding
 - [Using ChatGPT to Generate and Export Data for Analysis](https://youtu.be/kcehSSwGABE)
 - [Using ChatGPT to do data analysis](https://www.youtube.com/watch?v=Dw0irOIJYnA)
+- [ChatGPT makes me a live map!](https://www.youtube.com/watch?v=iNHQgLw7qZc)
+- [ChatGPT Geospatial Analysis Tutorial](https://www.youtube.com/watch?v=QDf-zc81NSE)
 
 ## ChatGPT Videos
 - [5 BEST AI TOOLS to Make Your Life Easier Like ChatGPT](https://www.youtube.com/watch?v=iawOF5ZmrVc)
 - [GPT 4: The AI Revolution](https://www.youtube.com/watch?v=DnKZHShdQr0)
 - [HOW to USE CHATGPT to MAKE VIRAL YOUTUBE VIDEOS?](https://www.youtube.com/watch?v=BdzRhpQQ6y)
+- [Create Your Own AI Animated Avatar: A Step-by-Step Guide](https://www.youtube.com/watch?v=V2efVSXSlqc)
 
 ## ChatGPT Prompts
 - [A variety of prompts that can be used with ChatGPT](https://github.com/f/awesome-chatgpt-prompts)
