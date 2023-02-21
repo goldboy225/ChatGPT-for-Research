@@ -13,6 +13,7 @@ Let's see how ChatGPT can help research work!
 - [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)
 
 ## ChatGPT to Coding
+- [Really awesome! Just give prompts in google colab, you can be a coding master!](https://copilot.naklecha.com/)|2023-02-21|
 - [Using ChatGPT to Generate and Export Data for Analysis](https://youtu.be/kcehSSwGABE)
 - [Using ChatGPT to do data analysis](https://www.youtube.com/watch?v=Dw0irOIJYnA)
 - [ChatGPT makes me a live map!](https://www.youtube.com/watch?v=iNHQgLw7qZc)
