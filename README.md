@@ -11,6 +11,7 @@ Let's see how ChatGPT can help research work!
 - [Synthesis table for literature reviews](https://youtu.be/WG6uKQjOhaU)
 - [Creating a research proposal using ChatGPT in 5 minutes. Results checked for plagiarism later](https://youtu.be/dPIkvjFnTkw)
 - [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)
+- [How to do research using ChatGPT with a case study](https://www.youtube.com/watch?v=KhRY-ktKB-4)
 
 ## ChatGPT to Coding
 - [Really awesome! Just give prompts in google colab, you can be a coding master!](https://copilot.naklecha.com/)|2023-02-21|
