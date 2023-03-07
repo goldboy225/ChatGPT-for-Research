@@ -14,6 +14,7 @@ Let's see how ChatGPT can help research work!
 - [How to do research using ChatGPT with a case study](https://www.youtube.com/watch?v=KhRY-ktKB-4) |2023-02-23|
 
 ## ChatGPT to Coding
+- [Visual Studio Code with ChatGPT](https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt) More efficient using VS Code with ChatGPT  
 - [Really awesome! Just give prompts in google colab, you can be a coding master!](https://copilot.naklecha.com/)|2023-02-21|
 - [Using ChatGPT to Generate and Export Data for Analysis](https://youtu.be/kcehSSwGABE)
 - [Using ChatGPT to do data analysis](https://www.youtube.com/watch?v=Dw0irOIJYnA)
