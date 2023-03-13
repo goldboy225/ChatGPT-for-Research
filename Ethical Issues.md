@@ -14,3 +14,14 @@ As an AI language model, ChatGPT has the potential to raise ethical issues, some
 - **Dependence**: As AI language models like ChatGPT become more advanced, there is a risk that humans will become increasingly dependent on them for decision-making and communication. This raises questions about the potential impact on human autonomy and decision-making.
 - **Environmental impact**: The training and operation of large AI models like ChatGPT require significant computational resources, which can have a significant environmental impact. This raises questions about the sustainability of AI models and the need to develop more energy-efficient computing technologies.
 
+So, let's discuss about the first issue - Bias
+
+What are the main reasons for Bias issue?
+
+Bias can occur in ChatGPT for several reasons:
+
+- *Training data*: Bias in ChatGPT can arise from the training data used to build the model. If the data used to train the model is biased, the model will also reflect that bias. For example, if a ChatGPT model is trained on text written by predominantly male authors, it may generate text that is biased towards male perspectives.
+- *Underrepresentation*: Bias can also arise if certain groups are underrepresented in the training data. For example, if a ChatGPT model is trained on data that has very few examples of text written by people from certain racial or ethnic groups, the model may not be able to generate text that is inclusive of those perspectives.
+- *Algorithmic bias*: The algorithms used to train ChatGPT may also be biased. For example, if the algorithm used to train ChatGPT assigns more weight to certain features or words, it may generate text that is biased towards those features or words.
+- *Human biases*: The people who develop and train ChatGPT may also introduce their own biases into the model. For example, if the developers have a bias towards certain perspectives or opinions, they may inadvertently introduce that bias into the model.
+- 
