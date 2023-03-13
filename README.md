@@ -13,6 +13,10 @@ Let's see how ChatGPT can help research work!
 - [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)
 - [How to do research using ChatGPT with a case study](https://www.youtube.com/watch?v=KhRY-ktKB-4) |2023-02-23|
 
+## Visual ChatGPT
+- [Microsoft VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
+- [VisualChatGPT Paper](https://arxiv.org/abs/2303.04671)
+
 ## ChatGPT to Coding
 - [Visual Studio Code with ChatGPT](https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt) More efficient using VS Code with ChatGPT  |2023-03-07|
 - [Really awesome! Just give prompts in google colab, you can be a coding master!](https://copilot.naklecha.com/)|2023-02-21|
