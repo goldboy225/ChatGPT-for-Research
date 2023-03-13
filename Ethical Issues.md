@@ -18,7 +18,7 @@ As an AI language model, ChatGPT has the potential to raise ethical issues, some
 So, let's discuss about the first issue - Bias
 What are the main reasons for Bias issue?
 
-Bias can occur in ChatGPT for several reasons:
+Bias can occur in ChatGPT for several reasons:  
 1.1 *Training data*: Bias in ChatGPT can arise from the training data used to build the model. If the data used to train the model is biased, the model will also reflect that bias. For example, if a ChatGPT model is trained on text written by predominantly male authors, it may generate text that is biased towards male perspectives.  
 1.2 *Underrepresentation*: Bias can also arise if certain groups are underrepresented in the training data. For example, if a ChatGPT model is trained on data that has very few examples of text written by people from certain racial or ethnic groups, the model may not be able to generate text that is inclusive of those perspectives.  
 1.3 *Selection bias*: The quality and quantity of the training data used to develop ChatGPT can be influenced by factors such as data availability, data collection methodology, and data filtering. These factors can result in the selection of a biased dataset.  
