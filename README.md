@@ -1,6 +1,9 @@
 # ChatGPT-for-Research
 Let's see how ChatGPT can help research work!
 
+## Prompting Engineering
+- [Learn Prompting](https://learnprompting.org/) |2023-03-15|  
+
 ## ChatGPT to Writing
 - [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)
 - [Using ChatGPT for writing in research](https://youtu.be/tEdM9e_ycFU)
