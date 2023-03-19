@@ -2,8 +2,8 @@
 Let's see how ChatGPT can help research work!
 
 ## AI for AI Tools
-[AI tools daily updated](https://theresanaiforthat.com/) |2023-03-19|
-[9 Alternatives for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|
+[AI tools daily updated](https://theresanaiforthat.com/) |2023-03-19|  
+[9 Alternatives Opensource AI Tools for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|  
 
 ## Prompting Engineering
 - [Learn Prompting](https://learnprompting.org/) |2023-03-15|  
