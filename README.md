@@ -1,6 +1,9 @@
 # ChatGPT-for-Research
 Let's see how ChatGPT can help research work!
 
+## AI for AI Tools
+[AI tools daily updated](https://theresanaiforthat.com/) |2023-03-19|
+
 ## Prompting Engineering
 - [Learn Prompting](https://learnprompting.org/) |2023-03-15|  
 
