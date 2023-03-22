@@ -25,6 +25,7 @@ Let's see how ChatGPT can help research work!
 - [VisualChatGPT Paper](https://arxiv.org/abs/2303.04671)
 
 ## ChatGPT to Coding
+- [ChatGPT for Data Science](https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science?utm_source=customerio&utm_medium=email&utm_campaign=230321_1-newsletter-reg_2-b2c_3-all_4-na_5-na_6-dc-insights_7-na_8-emal-ci_9-na_10-bau_11-email&utm_content=blast&utm_term=blog) In this cheat sheet, gain access to 60+ ChatGPT prompts for data science tasks. |2023-03-22|  
 - [Visual Studio Code with ChatGPT](https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt) More efficient using VS Code with ChatGPT  |2023-03-07|
 - [Really awesome! Just give prompts in google colab, you can be a coding master!](https://copilot.naklecha.com/)|2023-02-21|
 - [Using ChatGPT to Generate and Export Data for Analysis](https://youtu.be/kcehSSwGABE)
