@@ -43,12 +43,12 @@
 - [Question 5]: Since there are so many aspects on the significance of feature selection related to the unique characteristics of IoT security based on the discussion above, can you list all the aspects on that?
 
 - [ChatGPT]: Sure! Based on our previous discussion, the following are the different aspects on the significance of feature selection related to the unique characteristics of IoT security:
-**1. Volume and diversity of IoT data**
-**2. Limitation of computing resources of IoT devices**
-**3. Effectiveness of machine learning models to detect attacks**
-**4. Privacy and security concerns related to the data collected by IoT devices**
-**5. Heterogeneous nature of IoT devices and networks**
-**6. Resilience against attacks**
+**1. Volume and diversity of IoT data**  
+**2. Limitation of computing resources of IoT devices**      
+**3. Effectiveness of machine learning models to detect attacks**    
+**4. Privacy and security concerns related to the data collected by IoT devices**  
+**5. Heterogeneous nature of IoT devices and networks**  
+**6. Resilience against attacks**  
 - [ChatGPT]: These aspects highlight the importance of feature selection in addressing the unique challenges and characteristics of IoT security. By selecting the most relevant and resilient features for analysis, machine learning models can be trained to work effectively in diverse IoT environments, improving the accuracy and effectiveness of security systems.
 
 
