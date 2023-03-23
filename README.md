@@ -2,7 +2,7 @@
 Let's see how ChatGPT can help research work!
 
 ## Talk with ChatGPT on Paper Writing
-[Talk with ChatGPT on Paper Writing](https://github.com/goldboy225/ChatGPT-for-Research/blob/main/Talk%20with%20ChatGPT%20on%20Paper%20Writing.md)  
+[How to handle the feedback of reviewer: a case for example on feature selection to IoT security](https://github.com/goldboy225/ChatGPT-for-Research/blob/main/Talk%20with%20ChatGPT%20on%20Paper%20Writing.md)  
 
 ## AI for AI Tools
 [AI tools daily updated](https://theresanaiforthat.com/) |2023-03-19|  
