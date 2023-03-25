@@ -10,6 +10,7 @@ Let's see how ChatGPT can help research work!
 
 ## Prompting Engineering
 - [Learn Prompting](https://learnprompting.org/) |2023-03-15|  
+- [Prompt for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) focusing on the prompts on data science, involving the whole pipeline of machine learning implementation of any specific dataset|2023-03-26|  
 
 ## ChatGPT to Writing
 - [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)
