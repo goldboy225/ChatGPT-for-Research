@@ -5,12 +5,12 @@ Let's see how ChatGPT can help research work!
 [How to handle the feedback of reviewer: a case for example on feature selection to IoT security](https://github.com/goldboy225/ChatGPT-for-Research/blob/main/Talk%20with%20ChatGPT%20on%20Paper%20Writing.md)  |2023-03-24|
 
 ## AI for AI Tools
-[AI tools daily updated](https://theresanaiforthat.com/) A Free, Open Source Course on Communicating with Artificial Intelligence |2023-03-19|  
+[AI tools daily updated](https://theresanaiforthat.com/) |2023-03-19|  
 [9 Alternatives Opensource AI Tools for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|  
 
 ## Prompting Engineering
-- [Learn Prompting](https://learnprompting.org/) |2023-03-15|  
-- [Prompt for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) focusing on the prompts on data science, involving the whole pipeline of machine learning implementation of any specific dataset|2023-03-26|  
+- [Prompting Engineering Community](https://learnprompting.org/) A Free, Open Source Course on Communicating with Artificial Intelligence  |2023-03-15|  
+- [Prompt for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) focusing on the prompts on data science, involving the whole pipeline of machine learning implementation of any specific dataset |2023-03-26|  
 
 ## ChatGPT to Writing
 - [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)
