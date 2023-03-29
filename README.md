@@ -9,6 +9,7 @@ Let's see how ChatGPT can help research work!
 [9 Alternatives Opensource AI Tools for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|  
 
 ## Prompting Engineering
+- [ChatGPT Prompt Engineering by dair-ai](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-chatgpt.md) This repo covers the latest prompt engineering techniques for ChatGPT, including tips, applications, limitations, papers, and additional reading materials.  |2023-03-29|
 - [Prompting Engineering Community](https://learnprompting.org/) A Free, Open Source Course on Communicating with Artificial Intelligence  |2023-03-15|  
 - [Prompt for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) focusing on the prompts on data science, involving the whole pipeline of machine learning implementation of any specific dataset |2023-03-26|  
 
