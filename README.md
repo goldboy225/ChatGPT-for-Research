@@ -9,7 +9,7 @@ Let's see how ChatGPT can help research work!
 [9 Alternatives Opensource AI Tools for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|    
 [Chathub](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=website) https://github.com/chathub-dev/chathub 在一个应用里使用多种chatbot，目前支持ChatGPT和new Bing Chat，Google Bard，后续会集成百度文心一言等 |2023-04-04|   
 [ChatPDF](https://www.chatpdf.com/) Chat with any PDF for student, for work, and for curious ideas, drived by ChatGPT |2023-04-04|    
-[SCISPACE](https://typeset.io/) Your AI research assistant, do hours worth of reading and understanding in minutes |2023-04-04| 
+[SCISPACE](https://typeset.io/) Your AI research assistant, do hours worth of reading and understanding in minutes |2023-04-04|   
 [FreeGPT](https://freegpt.one/) Free using ChatGPT |2023-04-04|  
 [Poe](https://poe.com) GPT with many models, involving GPT3.5, GPT4.0 etc. |2023-04-04|  
 [SlideGPT](https://slidesgpt.com/) Goodbye blank slide, hello SlidesGPT |2023-04-04|  
