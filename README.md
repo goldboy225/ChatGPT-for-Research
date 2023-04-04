@@ -6,13 +6,13 @@ Let's see how ChatGPT can help research work!
 
 ## AI Tools for Academic, just give your ideas, AI tools will help you to achieve your goal
 [AI tools daily updated](https://theresanaiforthat.com/) |2023-03-19|  
-[9 Alternatives Opensource AI Tools for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|  
+[9 Alternatives Opensource AI Tools for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|    
 [Chathub](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=website) https://github.com/chathub-dev/chathub 在一个应用里使用多种chatbot，目前支持ChatGPT和new Bing Chat，Google Bard，后续会集成百度文心一言等 |2023-04-04| 
-[ChatPDF](https://www.chatpdf.com/) Chat with any PDF for student, for work, and for curious ideas, drived by ChatGPT |2023-04-04|
+[ChatPDF](https://www.chatpdf.com/) Chat with any PDF for student, for work, and for curious ideas, drived by ChatGPT |2023-04-04|  
 [SCISPACE](https://typeset.io/) Your AI research assistant, do hours worth of reading and understanding in minutes |2023-04-04| 
 [FreeGPT](https://freegpt.one/) Free using ChatGPT |2023-04-04|  
 [Poe](https://poe.com) GPT with many models, involving GPT3.5, GPT4.0 etc. |2023-04-04|  
-[SlideGPT](https://slidesgpt.com/) Goodbye blank slide, hello SlidesGPT |2023-04-04|
+[SlideGPT](https://slidesgpt.com/) Goodbye blank slide, hello SlidesGPT |2023-04-04|  
 [ChatPaper](https://github.com/kaixindelele/ChatPaper) ChatPaper全流程加速科研：论文阅读+润色+审稿+审稿回复 1. ChatPaper 通过ChatGPT实现对论文进行总结，帮助科研人进行论文初筛；2. ChatReviewer 利用ChatGPT对论文进行预审稿3. ChatImprovement 利用ChatGPT对论文初稿进行润色、翻译等 4. ChatResponse利用ChatGPT对审稿人的提问进行回复 |2023-04-04|   
 [Openai-Translator](https://github.com/yetone/openai-translator) 
 [Elicit](https://elicit.org/) The AI Research Assistant, Elicit uses language models to help you automate research workflows, like parts of literature review. |2023-04-04| 
