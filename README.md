@@ -4,12 +4,23 @@ Let's see how ChatGPT can help research work!
 ## Talk with ChatGPT on Paper Writing
 [How to handle the feedback of reviewer: a case for example on feature selection to IoT security](https://github.com/goldboy225/ChatGPT-for-Research/blob/main/Talk%20with%20ChatGPT%20on%20Paper%20Writing.md)  |2023-03-24|
 
-## AI for AI Tools
+## AI Tools for Academic, just give your ideas, AI tools will help you to achieve your goal
 [AI tools daily updated](https://theresanaiforthat.com/) |2023-03-19|  
 [9 Alternatives Opensource AI Tools for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|  
+[Chathub](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=website) https://github.com/chathub-dev/chathub 在一个应用里使用多种chatbot，目前支持ChatGPT和new Bing Chat，Google Bard，后续会集成百度文心一言等 |2023-04-04| 
+[ChatPDF](https://www.chatpdf.com/) Chat with any PDF for student, for work, and for curious ideas, drived by ChatGPT |2023-04-04|
+[SCISPACE](https://typeset.io/) Your AI research assistant, do hours worth of reading and understanding in minutes |2023-04-04| 
+[FreeGPT](https://freegpt.one/) Free using ChatGPT |2023-04-04|  
+[Poe](https://poe.com) GPT with many models, involving GPT3.5, GPT4.0 etc. |2023-04-04|  
+[SlideGPT](https://slidesgpt.com/) Goodbye blank slide, hello SlidesGPT |2023-04-04|
+[ChatPaper](https://github.com/kaixindelele/ChatPaper) ChatPaper全流程加速科研：论文阅读+润色+审稿+审稿回复 1. ChatPaper 通过ChatGPT实现对论文进行总结，帮助科研人进行论文初筛；2. ChatReviewer 利用ChatGPT对论文进行预审稿3. ChatImprovement 利用ChatGPT对论文初稿进行润色、翻译等 4. ChatResponse利用ChatGPT对审稿人的提问进行回复 |2023-04-04|   
+[Openai-Translator](https://github.com/yetone/openai-translator) 
+[Elicit](https://elicit.org/) The AI Research Assistant, Elicit uses language models to help you automate research workflows, like parts of literature review. |2023-04-04| 
+
 
 ## Prompting Engineering for Academic
 - [科研工作专用Prompts](https://github.com/binary-husky/chatgpt_academic) 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能 |2023-04-04|  
+- [](https://github.com/xuhangc/ChatGPT-Academic-Prompt) 
 - [ChatGPT Prompt Engineering by dair-ai](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-chatgpt.md) This repo covers the latest prompt engineering techniques for ChatGPT, including tips, applications, limitations, papers, and additional reading materials.  |2023-03-29|
 - [Prompting Engineering Community](https://learnprompting.org/) A Free, Open Source Course on Communicating with Artificial Intelligence  |2023-03-15|  
 - [Prompt for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) focusing on the prompts on data science, involving the whole pipeline of machine learning implementation of any specific dataset |2023-03-26|  
