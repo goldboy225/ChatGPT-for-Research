@@ -14,8 +14,8 @@ Let's see how ChatGPT can help research work!
 [Poe](https://poe.com) GPT with many models, involving GPT3.5, GPT4.0 etc. |2023-04-04|  
 [SlideGPT](https://slidesgpt.com/) Goodbye blank slide, hello SlidesGPT |2023-04-04|  
 [ChatPaper](https://github.com/kaixindelele/ChatPaper) ChatPaper全流程加速科研：论文阅读+润色+审稿+审稿回复 |2023-04-04|   
-[Openai-Translator](https://github.com/yetone/openai-translator) 
-[Elicit](https://elicit.org/) The AI Research Assistant, Elicit uses language models to help you automate research workflows, like parts of literature review. |2023-04-04| 
+[Openai-Translator](https://github.com/yetone/openai-translator) For text translation driven by AI |2023-04-04|  
+[Elicit](https://elicit.org/) The AI Research Assistant, Elicit uses language models to help you automate research workflows, like parts of literature review. |2023-04-04|  
 [Fusion AI](https://fusion.tiiny.site/?ref=theresanaiforthat) To improve your prompts for writing essay. |2023-04-06|  
 
 
