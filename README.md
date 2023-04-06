@@ -39,6 +39,7 @@ Let's see how ChatGPT can help research work!
 - [How to do research using ChatGPT with a case study](https://www.youtube.com/watch?v=KhRY-ktKB-4) |2023-02-23|
 
 ## Visual ChatGPT
+- [Microsoft JARVIS](https://github.com/microsoft/JARVIS) Language serves as an interface for LLMs to connect numerous AI models for solving complicated AI tasks! |2023-04-06| 
 - [Microsoft VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
 - [VisualChatGPT Paper](https://arxiv.org/abs/2303.04671)
 
