@@ -17,6 +17,7 @@ Let's see how ChatGPT can help research work!
 [Openai-Translator](https://github.com/yetone/openai-translator) For text translation driven by AI |2023-04-04|  
 [Elicit](https://elicit.org/) The AI Research Assistant, Elicit uses language models to help you automate research workflows, like parts of literature review. |2023-04-04|  
 [Fusion AI](https://fusion.tiiny.site/?ref=theresanaiforthat) To improve your prompts for writing essay. |2023-04-06|  
+[Text Generator](https://text-generator.io/) Generate high quality text with state of the art AI. Accurate, fast and flexible. |2023-04-08|  
 
 
 ## Prompting Engineering for Academic
