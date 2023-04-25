@@ -2,7 +2,7 @@
 Let's see how ChatGPT can help research work!
 
 ## Awesome APP based on ChatGPT
-[Complete a whole book with cover, figure, and text](https://ainspiration.netlify.app/)  
+[AIspiration](https://ainspiration.netlify.app/)Complete a whole book with cover, figure, and text.  
 
 ## Talk with ChatGPT on Paper Writing
 [How to handle the feedback of reviewer: a case for example on feature selection to IoT security](https://github.com/goldboy225/ChatGPT-for-Research/blob/main/Talk%20with%20ChatGPT%20on%20Paper%20Writing.md)  |2023-03-24|
