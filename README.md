@@ -3,6 +3,7 @@ Let's see how ChatGPT can help research work!
 
 # To build your own AI assistant like ChatGPT
 [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) You can just need one click, then your own web-based ChatGPT can be created, just follow the instructions, have fun!  
+[AI-Projects-by-One-Click-Deployment](https://github.com/goldboy225/Awesome-AI-One-Click-Deployment) This is the repo for one-click or simple deployment of open source AI applications, have fun!  
 
 ## Awesome APP based on ChatGPT
 [AIspiration](https://ainspiration.netlify.app/) You can write a whole book with all the items need for a book, including the cover, figure, and text.  
