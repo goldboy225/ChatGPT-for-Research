@@ -2,29 +2,29 @@
 Let's see how ChatGPT can help research work!
 
 # To build your own AI assistant like ChatGPT
-[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) You can just need one click, then your own web-based ChatGPT can be created, just follow the instructions, have fun!  
-[AI-Projects-by-One-Click-Deployment](https://github.com/goldboy225/Awesome-AI-One-Click-Deployment) This is the repo for one-click or simple deployment of open source AI applications, have fun!  
+- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) You can just need one click, then your own web-based ChatGPT can be created, just follow the instructions, have fun!  
+- [AI-Projects-by-One-Click-Deployment](https://github.com/goldboy225/Awesome-AI-One-Click-Deployment) This is the repo for one-click or simple deployment of open source AI applications, have fun!  
 
 ## Awesome APP based on ChatGPT
-[AIspiration](https://ainspiration.netlify.app/) You can write a whole book with all the items need for a book, including the cover, figure, and text.  
+- [AIspiration](https://ainspiration.netlify.app/) You can write a whole book with all the items need for a book, including the cover, figure, and text.  
 
 ## Talk with ChatGPT on Paper Writing
-[How to handle the feedback of reviewer: a case for example on feature selection to IoT security](https://github.com/goldboy225/ChatGPT-for-Research/blob/main/Talk%20with%20ChatGPT%20on%20Paper%20Writing.md)  |2023-03-24|
+- [How to handle the feedback of reviewer: a case for example on feature selection to IoT security](https://github.com/goldboy225/ChatGPT-for-Research/blob/main/Talk%20with%20ChatGPT%20on%20Paper%20Writing.md)  |2023-03-24|
 
 ## AI Tools for Academic, just give your ideas, AI tools will help you to achieve your goal
-[AI tools daily updated](https://theresanaiforthat.com/) |2023-03-19|  
-[9 Alternatives Opensource AI Tools for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|    
-[Chathub](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=website)  在一个应用里使用多种chatbot，目前支持ChatGPT和new Bing Chat，Google Bard，后续会集成百度文心一言等 https://github.com/chathub-dev/chathub |2023-04-04|   
-[ChatPDF](https://www.chatpdf.com/) Chat with any PDF for student, for work, and for curious ideas, drived by ChatGPT |2023-04-04|    
-[SCISPACE](https://typeset.io/) Your AI research assistant, do hours worth of reading and understanding in minutes |2023-04-04|   
-[FreeGPT](https://freegpt.one/) Free using ChatGPT |2023-04-04|  
-[Poe](https://poe.com) GPT with many models, involving GPT3.5, GPT4.0 etc. |2023-04-04|  
-[SlideGPT](https://slidesgpt.com/) Goodbye blank slide, hello SlidesGPT |2023-04-04|  
-[ChatPaper](https://github.com/kaixindelele/ChatPaper) ChatPaper全流程加速科研：论文阅读+润色+审稿+审稿回复 |2023-04-04|   
-[Openai-Translator](https://github.com/yetone/openai-translator) For text translation driven by AI |2023-04-04|  
-[Elicit](https://elicit.org/) The AI Research Assistant, Elicit uses language models to help you automate research workflows, like parts of literature review. |2023-04-04|  
-[Fusion AI](https://fusion.tiiny.site/?ref=theresanaiforthat) To improve your prompts for writing essay. |2023-04-06|  
-[Text Generator](https://text-generator.io/) Generate high quality text with state of the art AI. Accurate, fast and flexible. |2023-04-08|  
+- [AI tools daily updated](https://theresanaiforthat.com/) |2023-03-19|  
+- [9 Alternatives Opensource AI Tools for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|    
+- [Chathub](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=website)  在一个应用里使用多种chatbot，目前支持ChatGPT和new Bing Chat，Google Bard，后续会集成百度文心一言等 https://github.com/chathub-dev/chathub |2023-04-04|   
+- [ChatPDF](https://www.chatpdf.com/) Chat with any PDF for student, for work, and for curious ideas, drived by ChatGPT |2023-04-04|    
+- [SCISPACE](https://typeset.io/) Your AI research assistant, do hours worth of reading and understanding in minutes |2023-04-04|   
+- [FreeGPT](https://freegpt.one/) Free using ChatGPT |2023-04-04|  
+- [Poe](https://poe.com) GPT with many models, involving GPT3.5, GPT4.0 etc. |2023-04-04|  
+- [SlideGPT](https://slidesgpt.com/) Goodbye blank slide, hello SlidesGPT |2023-04-04|  
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper) ChatPaper全流程加速科研：论文阅读+润色+审稿+审稿回复 |2023-04-04|   
+- [Openai-Translator](https://github.com/yetone/openai-translator) For text translation driven by AI |2023-04-04|  
+- [Elicit](https://elicit.org/) The AI Research Assistant, Elicit uses language models to help you automate research workflows, like parts of literature review. |2023-04-04|  
+- [Fusion AI](https://fusion.tiiny.site/?ref=theresanaiforthat) To improve your prompts for writing essay. |2023-04-06|  
+- [Text Generator](https://text-generator.io/) Generate high quality text with state of the art AI. Accurate, fast and flexible. |2023-04-08|  
 
 
 ## Prompting Engineering for Academic
