@@ -31,6 +31,7 @@ Let's see how ChatGPT can help research work!
 
 
 ## Prompting Engineering for Academic
+- [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. Whether you're a student, researcher, or academic professional, these prompts can help you hone your writing abilities and tackle your writing projects with confidence.
 - [chatgpt-prompt-splitter](https://github.com/jupediaz/chatgpt-prompt-splitter) ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request.  
 - [科研工作专用Prompts](https://github.com/binary-husky/chatgpt_academic) 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能 |2023-04-04|  
 - [ChatGPT-Academic-Prompt](https://github.com/xuhangc/ChatGPT-Academic-Prompt) Use ChatGPT for academic writing.
