@@ -15,6 +15,7 @@ Let's see how ChatGPT can help research work!
 - [How to handle the feedback of reviewer: a case for example on feature selection to IoT security](https://github.com/goldboy225/ChatGPT-for-Research/blob/main/Talk%20with%20ChatGPT%20on%20Paper%20Writing.md)  |2023-03-24|
 
 ## AI Tools for Academic, just give your ideas, AI tools will help you to achieve your goal
+- [AI tools organized by Texas Tech University](https://guides.library.ttu.edu/artificialintelligencetools/aitools) Artificial Intelligence Tools for Detection, Research and Writing |2025-04-04|
 - [AI tools daily updated](https://theresanaiforthat.com/) |2023-03-19|  
 - [9 Alternatives Opensource AI Tools for ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) |2023-03-19|    
 - [Chathub](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=website)  在一个应用里使用多种chatbot，目前支持ChatGPT和new Bing Chat，Google Bard，后续会集成百度文心一言等 https://github.com/chathub-dev/chathub |2023-04-04|   
