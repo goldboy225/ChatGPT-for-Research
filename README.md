@@ -1,4 +1,4 @@
-# ChatGPT-for-Research
+# AI-for-Research
 Let's see how ChatGPT can help research work!
 
 # To build your own AI assistant like ChatGPT
